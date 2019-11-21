@@ -1,0 +1,17 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Homepage</title>
+    <<link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Salatutions</h1>
+    <h2>First section</h2>
+    <p>hey how y'all feeling</p>
+    <p>I'm chilling </p>
+    <h2>Next Section</h2>
+    <img src="images/faceq.png" alt="It's meee!!">
+    <p>Another sentence!</p>
+  </body>
+</html>
